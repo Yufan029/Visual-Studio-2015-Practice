@@ -1,0 +1,6 @@
+c:\Allen\Projects\Grades\Grades\bin\Debug\Grades.exe.config
+c:\Allen\Projects\Grades\Grades\bin\Debug\Grades.exe
+c:\Allen\Projects\Grades\Grades\bin\Debug\Grades.pdb
+c:\Allen\Projects\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+c:\Allen\Projects\Grades\Grades\obj\Debug\Grades.exe
+c:\Allen\Projects\Grades\Grades\obj\Debug\Grades.pdb

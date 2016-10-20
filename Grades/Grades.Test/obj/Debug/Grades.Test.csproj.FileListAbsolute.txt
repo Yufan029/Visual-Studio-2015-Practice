@@ -1,0 +1,8 @@
+c:\Allen\Projects\Grades\Grades.Test\bin\Debug\Grades.Test.dll
+c:\Allen\Projects\Grades\Grades.Test\bin\Debug\Grades.Test.pdb
+c:\Allen\Projects\Grades\Grades.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Allen\Projects\Grades\Grades.Test\obj\Debug\Grades.Test.csprojResolveAssemblyReference.cache
+c:\Allen\Projects\Grades\Grades.Test\obj\Debug\Grades.Test.dll
+c:\Allen\Projects\Grades\Grades.Test\obj\Debug\Grades.Test.pdb
+c:\Allen\Projects\Grades\Grades.Test\bin\Debug\Grades.exe
+c:\Allen\Projects\Grades\Grades.Test\bin\Debug\Grades.pdb
