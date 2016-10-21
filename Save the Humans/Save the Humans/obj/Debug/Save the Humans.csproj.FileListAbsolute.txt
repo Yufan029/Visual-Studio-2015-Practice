@@ -1,1 +1,14 @@
 C:\Allen\Projects\Save the Humans\Save the Humans\bin\Debug\Save the Humans.exe.config
+C:\Allen\Projects\Save the Humans\Save the Humans\bin\Debug\Save the Humans.exe
+C:\Allen\Projects\Save the Humans\Save the Humans\bin\Debug\Save the Humans.pdb
+C:\Allen\Projects\Save the Humans\Save the Humans\obj\Debug\Save the Humans.csprojResolveAssemblyReference.cache
+C:\Allen\Projects\Save the Humans\Save the Humans\obj\Debug\MainWindow.g.cs
+C:\Allen\Projects\Save the Humans\Save the Humans\obj\Debug\App.g.cs
+C:\Allen\Projects\Save the Humans\Save the Humans\obj\Debug\Save the Humans_MarkupCompile.cache
+C:\Allen\Projects\Save the Humans\Save the Humans\obj\Debug\Save the Humans_MarkupCompile.lref
+C:\Allen\Projects\Save the Humans\Save the Humans\obj\Debug\MainWindow.baml
+C:\Allen\Projects\Save the Humans\Save the Humans\obj\Debug\Save the Humans.g.resources
+C:\Allen\Projects\Save the Humans\Save the Humans\obj\Debug\Save_the_Humans.Properties.Resources.resources
+C:\Allen\Projects\Save the Humans\Save the Humans\obj\Debug\Save the Humans.csproj.GenerateResource.Cache
+C:\Allen\Projects\Save the Humans\Save the Humans\obj\Debug\Save the Humans.exe
+C:\Allen\Projects\Save the Humans\Save the Humans\obj\Debug\Save the Humans.pdb
