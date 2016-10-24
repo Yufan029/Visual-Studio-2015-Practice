@@ -12,3 +12,17 @@ C:\Allen\Projects\Save the Humans\Save the Humans\obj\Debug\Save_the_Humans.Prop
 C:\Allen\Projects\Save the Humans\Save the Humans\obj\Debug\Save the Humans.csproj.GenerateResource.Cache
 C:\Allen\Projects\Save the Humans\Save the Humans\obj\Debug\Save the Humans.exe
 C:\Allen\Projects\Save the Humans\Save the Humans\obj\Debug\Save the Humans.pdb
+D:\C#Practice\Visual-Studio-2015-Practice\Save the Humans\Save the Humans\bin\Debug\Save the Humans.exe.config
+D:\C#Practice\Visual-Studio-2015-Practice\Save the Humans\Save the Humans\obj\Debug\Save the Humans.exe
+D:\C#Practice\Visual-Studio-2015-Practice\Save the Humans\Save the Humans\obj\Debug\Save the Humans.pdb
+D:\C#Practice\Visual-Studio-2015-Practice\Save the Humans\Save the Humans\bin\Debug\Save the Humans.exe
+D:\C#Practice\Visual-Studio-2015-Practice\Save the Humans\Save the Humans\bin\Debug\Save the Humans.pdb
+D:\C#Practice\Visual-Studio-2015-Practice\Save the Humans\Save the Humans\obj\Debug\MainWindow.g.cs
+D:\C#Practice\Visual-Studio-2015-Practice\Save the Humans\Save the Humans\obj\Debug\App.g.cs
+D:\C#Practice\Visual-Studio-2015-Practice\Save the Humans\Save the Humans\obj\Debug\Save the Humans_MarkupCompile.cache
+D:\C#Practice\Visual-Studio-2015-Practice\Save the Humans\Save the Humans\obj\Debug\Save the Humans_MarkupCompile.lref
+D:\C#Practice\Visual-Studio-2015-Practice\Save the Humans\Save the Humans\obj\Debug\MainWindow.baml
+D:\C#Practice\Visual-Studio-2015-Practice\Save the Humans\Save the Humans\obj\Debug\Save the Humans.g.resources
+D:\C#Practice\Visual-Studio-2015-Practice\Save the Humans\Save the Humans\obj\Debug\Save_the_Humans.Properties.Resources.resources
+D:\C#Practice\Visual-Studio-2015-Practice\Save the Humans\Save the Humans\obj\Debug\Save the Humans.csproj.GenerateResource.Cache
+D:\C#Practice\Visual-Studio-2015-Practice\Save the Humans\Save the Humans\obj\Debug\Save the Humans.csprojResolveAssemblyReference.cache
